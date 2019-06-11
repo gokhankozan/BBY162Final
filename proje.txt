@@ -1,0 +1,16 @@
+﻿1866, Suç ve Ceza , Fyodor Dostoyevski
+1922, Kiralık Konak, Yakup Kadri Karaosmanoğlu
+1925, Kavgam, Adolf Hitler
+1926, Vurun Kahpeye, Halide Edip Adıvar
+1932, Yaban, Yakup Kadri Karaosmanoğlu
+1934, Ayaşlı ile Kiracıları, Memduh Şevket Esendal
+1937, Fareler ve İnsanlar, John Steinbeck
+1947, Veba, Albert Camus
+1949, 1984(Bin Dokuz Yüz Seksen Dört), George Orwell
+1954, Sineklerin Tanrısı, William Golding
+1959, Aylak Adam, Yusuf Atılgan
+1959, Yılanların öcü, Fakir Baykurt
+1961, Saatleri Ayarlama Enstitüsü, Ahmet Hamdi Tanpınar
+1974, Karartma Geceleri, Rıfat Ilgaz
+
+
